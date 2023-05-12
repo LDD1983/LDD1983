@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">以下都還不是很會</h3>
+<h3 align="left"></h3>
 <p align="left" > <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
